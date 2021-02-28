@@ -1,0 +1,6 @@
+# This program would ask for user's name and best color then output it
+
+name = input("Enter your name please: ")
+color = input("What's your best color? ")
+
+print("Hi " + name + ", your best color is " + color)
