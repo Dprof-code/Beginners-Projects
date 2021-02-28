@@ -1,0 +1,9 @@
+To make use of mathematical functions in python, you have to import the Math Module.
+Math Module reusable functions for mathematical use.
+to use type >>> import math
+math. shows all the mathematical functions available in the module.
+To learn more, search for "Python 3 math module" online.
+        Conditions
+AND : both
+OR: at least one
+NOT: none
